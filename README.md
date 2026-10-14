@@ -169,7 +169,6 @@ GitHub 仓库只包含这套 Skill。将本目录的内容作为仓库根目录�
 edu-safe-learning-department/
 ├── README.md          # GitHub 项目说明
 ├── SKILL.md           # 总控入口
-├── agents/            # Agent 配置
 ├── examples/          # 请求、草稿与审校示例
 ├── references/        # 架构、安全、交接与平台契约
 ├── scripts/           # 控制器、演示、验收与打包脚本

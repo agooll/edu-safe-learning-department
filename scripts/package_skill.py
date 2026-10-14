@@ -80,7 +80,7 @@ def validate_name(name: str) -> str | None:
 
 
 def ignored(path: Path) -> bool:
-    return any(part in {"__pycache__", ".git", "__MACOSX"} for part in path.parts) or path.name == ".DS_Store" or path.name.startswith("._") or path.suffix == ".pyc"
+    return any(part in {"__pycache__", ".git", "__MACOSX"} for part in path.parts) or path.name in {".DS_Store", ".gitignore"} or path.name.startswith("._") or path.suffix == ".pyc"
 
 
 def secret_warning(text: str) -> bool:
