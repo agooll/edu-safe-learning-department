@@ -194,7 +194,7 @@ python ./scripts/package_skill.py . ../dist/edu-safe-learning-department.zip
 
 ## 开源许可与发布范围
 
-当前目录尚未提供 `LICENSE`。发布前需要由作者确定并添加开源许可证；本 README 不替代许可授权。
+本项目采用 [MIT License](./LICENSE.txt)，Copyright (c) 2026 agooll。允许使用、修改、分发与商用，须保留版权和许可声明；软件按现状提供，不附带担保。第三方内容仍遵循其原有许可。
 
 本仓库的发布范围仅为这套 Skill。上传时排除 `__pycache__/`、`*.pyc`、本地会话目录、凭证文件与运行日志，示例使用合成或去标识化数据。本文中的项目背景不代表平台官方认证或背书。
 
