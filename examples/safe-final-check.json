@@ -1,0 +1,43 @@
+{
+  "schema_version": "1.0",
+  "request_id": "req-teaching-001",
+  "revision_count": 0,
+  "request": {
+    "request_id": "req-teaching-001",
+    "actor": {"role": "teacher"},
+    "task_type": "teaching",
+    "subject": "数学",
+    "grade_level": "八年级",
+    "goal": "理解一次函数斜率",
+    "content": "设计一道课后练习。",
+    "constraints": {"active_exam": false}
+  },
+  "draft": {
+    "schema_version": "1.0",
+    "request_id": "req-teaching-001",
+    "producer_skill": "edu-teaching-designer",
+    "status": "draft",
+    "content": "练习：出租车起步后每增加 1 千米，费用增加 2 元。请写出路程增加量与费用增加量之间的关系，并解释斜率 2 的实际意义。下一步：让学生用一句话说明单位变化率。",
+    "evidence_refs": [],
+    "assumptions": ["不涉及当地真实计价规则，只用于数学建模练习"],
+    "limitations": [],
+    "confidence": "high",
+    "rubric_used": false,
+    "human_review_required": false,
+    "next_action": "提交独立质量审计"
+  },
+  "quality": {
+    "schema_version": "1.0",
+    "request_id": "req-teaching-001",
+    "decision": "pass",
+    "checks": {
+      "complete": true,
+      "traceable": true,
+      "pedagogically_appropriate": true,
+      "actionable": true,
+      "uncertainty_disclosed": true
+    },
+    "issues": [],
+    "next_action": "提交最终安全门禁"
+  }
+}

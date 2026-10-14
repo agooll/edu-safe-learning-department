@@ -1,0 +1,15 @@
+{
+  "schema_version": "1.0",
+  "request_id": "req-teaching-001",
+  "producer_skill": "edu-teaching-designer",
+  "status": "draft",
+  "content": "练习：出租车起步后每增加 1 千米，费用增加 2 元。请写出路程增加量与费用增加量之间的关系，并解释斜率 2 的实际意义。",
+  "evidence_refs": [],
+  "assumptions": ["只用于数学建模练习，不代表当地真实计价规则"],
+  "limitations": [],
+  "confidence": "high",
+  "rubric_used": false,
+  "human_review_required": false,
+  "next_action": "提交独立质量审计"
+}
+

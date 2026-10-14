@@ -1,0 +1,17 @@
+{
+  "schema_version": "1.0",
+  "request_id": "req-assessment-001",
+  "actor": {"role": "teacher"},
+  "task_type": "assessment",
+  "subject": "语文",
+  "grade_level": "七年级",
+  "content": "请依据量表给出形成性评阅反馈。",
+  "student_response": "文章围绕一次校园志愿活动展开，但结尾较仓促。",
+  "rubric": {
+    "内容与主题": "0-4 分",
+    "结构与连贯": "0-3 分",
+    "语言表达": "0-3 分"
+  },
+  "constraints": {"formal_grade": false, "active_exam": false}
+}
+

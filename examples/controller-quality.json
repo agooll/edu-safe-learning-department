@@ -1,0 +1,14 @@
+{
+  "schema_version": "1.0",
+  "request_id": "req-teaching-001",
+  "decision": "pass",
+  "checks": {
+    "complete": true,
+    "traceable": true,
+    "pedagogically_appropriate": true,
+    "actionable": true,
+    "uncertainty_disclosed": true
+  },
+  "issues": [],
+  "next_action": "提交最终安全门禁"
+}

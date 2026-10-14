@@ -1,0 +1,23 @@
+{
+  "schema_version": "1.0",
+  "goal": "理解一次函数斜率并解决真实情境问题",
+  "stage": "guided-practice",
+  "current_topic": "解释单位变化率",
+  "completed_steps": [
+    "完成基线诊断",
+    "理解斜率是两个变量变化量的比"
+  ],
+  "confirmed_understanding": [
+    "能区分变化量和总量"
+  ],
+  "evidence_ids": [
+    "evidence-demo-001"
+  ],
+  "last_exchange": {
+    "question_summary": "斜率 2 在出租车情境中表示什么",
+    "learner_response_summary": "路程每增加 1 千米，费用增加 2 元"
+  },
+  "next_skill": "edu-teaching-designer",
+  "next_action": "完成一道单位变化率迁移题"
+}
+

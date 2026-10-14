@@ -1,0 +1,52 @@
+{
+  "schema_version": "1.0",
+  "request_id": "req-side-001",
+  "revision_count": 0,
+  "request": {
+    "request_id": "req-side-001",
+    "actor": {"role": "student"},
+    "task_type": "teaching",
+    "subject": "数学",
+    "grade_level": "八年级",
+    "goal": "理解横截距的意义",
+    "content": "顺便问一下，横截距为什么不一定是零？",
+    "constraints": {"active_exam": false}
+  },
+  "draft": {
+    "schema_version": "1.0",
+    "request_id": "req-side-001",
+    "producer_skill": "edu-teaching-designer",
+    "status": "draft",
+    "content": "横截距表示图像与横轴相交位置对应的横坐标。它由函数关系决定，因此不一定是零。下一步：回到主线，继续完成单位变化率迁移题。",
+    "evidence_refs": [],
+    "assumptions": ["这里讨论一次函数图像"],
+    "limitations": [],
+    "confidence": "high",
+    "rubric_used": false,
+    "human_review_required": false,
+    "next_action": "生成插问总结并恢复主线"
+  },
+  "quality": {
+    "schema_version": "1.0",
+    "request_id": "req-side-001",
+    "decision": "pass",
+    "checks": {
+      "complete": true,
+      "traceable": true,
+      "pedagogically_appropriate": true,
+      "actionable": true,
+      "uncertainty_disclosed": true
+    },
+    "issues": [],
+    "next_action": "提交最终安全门禁"
+  },
+  "session": {
+    "mode": "continuous-learning",
+    "message_class": "side-question",
+    "active_thread": "branch-001",
+    "state": {
+      "stage": "guided-practice",
+      "mastery_status": "not-demonstrated"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": "1.0",
+  "request_id": "req-teaching-001",
+  "actor": {"role": "teacher"},
+  "task_type": "teaching",
+  "subject": "数学",
+  "grade_level": "八年级",
+  "goal": "学生能够解释一次函数斜率的意义并解决真实情境问题",
+  "content": "设计一节 45 分钟课程，包含导入、讲解、分层练习和形成性评价。",
+  "constraints": {"duration_minutes": 45, "active_exam": false},
+  "consent": {"student_data_authorized": false}
+}
+

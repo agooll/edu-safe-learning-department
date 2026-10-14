@@ -1,0 +1,7 @@
+{
+  "answer_summary": "插问解释了横截距代表自变量为零时的初始值",
+  "impact_on_main": "帮助区分斜率和截距，不改变当前学习阶段",
+  "unresolved_points": [],
+  "safe_to_resume": true
+}
+

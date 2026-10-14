@@ -1,0 +1,15 @@
+{
+  "schema_version": "2.0",
+  "goal_id": "goal-demo-001",
+  "topic": "一次函数",
+  "anchor_timestamp_utc": "2026-08-01T08:00:00Z",
+  "checkpoint_index": 0,
+  "next_checkpoint_id": "r01",
+  "next_review_at_utc": "2026-08-01T08:20:00Z",
+  "review_count": 0,
+  "skipped_count": 0,
+  "status": "scheduled",
+  "pending_decision": null,
+  "last_outcome": null,
+  "last_evidence_id": null
+}

@@ -1,0 +1,23 @@
+{
+  "schema_version": "1.0",
+  "completed_steps": [
+    "完成一次函数基线诊断",
+    "完成斜率概念讲解与引导练习",
+    "完成迁移验证和延迟复习"
+  ],
+  "confirmed_understanding": [
+    "能解释斜率是两个变量变化量的比",
+    "能说明斜率在真实情境中的单位意义"
+  ],
+  "misconceptions_corrected": [
+    "区分斜率与截距",
+    "区分变化量与总量"
+  ],
+  "side_question_summaries": [
+    "插问解释了横截距的意义，不改变主线学习阶段"
+  ],
+  "transfer_summary": "能够在不同计费情境中识别并解释单位变化率",
+  "review_summary": "延迟检索复习通过",
+  "next_recommendation": "下一步用图像、表格和函数式表示同一个变化关系"
+}
+

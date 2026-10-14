@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+.env
+.env.*
+.venv/
+venv/
+.edu-learning-session/
+edu-controller-session/
+dist/
+*.log
+.DS_Store
